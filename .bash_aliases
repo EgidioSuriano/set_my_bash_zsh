@@ -1,5 +1,5 @@
 # Aggiornamenti e installazione pacchetti
-alias update='sudo apt update && sudo apt upgrade - y && sudo autoremove -y'       # Per aggiornare i pacchetti (Ubuntu/Debian)
+alias update='sudo apt update && sudo apt upgrade -y && sudo autoremove -y'       # Per aggiornare i pacchetti (Ubuntu/Debian)
 alias install='sudo apt install'                         # Per installare pacchetti (Ubuntu/Debian)
 alias remove='sudo apt remove'                           # Per rimuovere pacchetti (Ubuntu/Debian)
 
